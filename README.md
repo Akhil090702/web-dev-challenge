@@ -1,67 +1,70 @@
-# Full Stack Dev Coding Challenge 👨‍💻
+# Getting Started with Create React App
 
-Welcome to Flo Mobility's Full Stack Developer Challenge. Congratulations on reaching round one of our interview process! Successfully completing this challenge and being selected will advance you to round 2, which consists of a personal interview.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Challenge Overview
+## Available Scripts
 
-### Challenge Task
+In the project directory, you can run:
 
-Your task is to build a custom web application that incorporates the MERN stack and at least two additional technologies from the provided list. The specific details of the project are intentionally left open-ended to allow you creative freedom. The application should demonstrate your proficiency in the selected technologies and deliver a functional and well-designed application within the given time frame.
+### `npm start`
 
-### Technologies to be Used
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **MERN Stack:**
-  - MongoDB: Database
-  - Express.js: Backend framework
-  - React: Frontend library
-  - Node.js: JavaScript runtime for the server
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Three.js:**
-  - JavaScript library for creating 3D graphics in the browser
+### `npm test`
 
-- **Socket.IO:**
-  - Real-time web socket communication
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Redis:**
-  - In-memory data structure store, used for caching
+### `npm run build`
 
-- **WebRTC:**
-  - Real-time communication between browsers for audio, video, and data sharing
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Additional Opportunity for Selection
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-As part of this coding challenge, you have the opportunity to distinguish yourself by incorporating more than two technologies from the provided list into your project. Choosing and successfully implementing these technologies will not only showcase your versatility but also demonstrate your ability to integrate diverse technologies cohesively.
-The inclusion of extra technologies will be viewed positively during the evaluation process, providing an additional layer for us to assess your skills and creativity. This initiative reflects your capacity to adapt to different tools and environments, making you a more attractive candidate for the position.The incorporation of additional technologies will set your submission apart and potentially increase your chances of being selected. It's an opportunity to go above and beyond and showcase the breadth of your technical expertise.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Good luck, and we look forward to seeing the innovative solutions you create!
+### `npm run eject`
 
-### Instructions
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. Fork this repository to start your project. ( Ensure that the repo is private untill you finish development ) 
-2. Create a new branch for your project.
-3. Choose at least two additional technologies from the provided list and incorporate them into your project.
-4. Implement the project according to the given specifications.
-5. Ensure that your code is well-documented and follows best practices.
-6. Host and deploy your project with a suitable provider. ( If you're unable to host the project, attach sufficient screenshots or video recordings. )
-7. Reply to the coding challenge email with the link to your repository.
-8. Ensure providing suitable instructions to run the project in the Readme.md file.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Evaluation Criteria
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Your submission will be evaluated based on the following criteria:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- **Functionality:** Does the application work as intended?
-- **Code Quality:** Is the code well-organized, readable, and maintainable?
-- **Creativity:** Did you incorporate interesting and creative features into the application?
-- **Technical Proficiency:** Are you able to effectively use the specified technologies and the additional ones you selected?
-- **Completion:** Did you complete the project within the given time frame?
+## Learn More
 
-## Deadline
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-The deadline for this coding challenge is  **3rd December 11:59pm**. Late submissions may not be considered.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Questions and Assistance
+### Code Splitting
 
-If you have any questions or need clarification during the challenge, please reach out to <a href="mailto:akhilesh@flomobility.com">mail</a> or [linkedin](https://www.linkedin.com/in/akhileshbkalnoor/).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Good luck, and we look forward to seeing your creative and technically proficient solutions!
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
